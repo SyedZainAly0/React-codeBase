@@ -2,8 +2,8 @@
 
 This project contains:
 
-- src/ → React source code
+- src/ → React Component files
 - package.json → project dependencies
 - public/ → public HTML files
-- README.md → project information
+
 
